@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/kamal-portfolio/static/css/main.6824a152.css",
-    "main.js": "/kamal-portfolio/static/js/main.258c9ad4.js",
-    "static/js/415.4d6acbeb.chunk.js": "/kamal-portfolio/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/kamal-portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/My_Resume.pdf": "/kamal-portfolio/static/media/My_Resume.a85670775f0b19b66767.pdf",
-    "static/media/home-main.svg": "/kamal-portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
-    "static/media/about.png": "/kamal-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/home-bg.jpg": "/kamal-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "/kamal-portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
-    "static/media/pre.svg": "/kamal-portfolio/static/media/pre.4410c5baaa673cc131da.svg",
-    "index.html": "/kamal-portfolio/index.html",
-    "main.6824a152.css.map": "/kamal-portfolio/static/css/main.6824a152.css.map",
-    "main.258c9ad4.js.map": "/kamal-portfolio/static/js/main.258c9ad4.js.map",
-    "415.4d6acbeb.chunk.js.map": "/kamal-portfolio/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/kamal-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "https://kamalsai1.github.io/kamal-portfolio/static/css/main.263f349a.css",
+    "main.js": "https://kamalsai1.github.io/kamal-portfolio/static/js/main.9b33f528.js",
+    "static/js/415.4d6acbeb.chunk.js": "https://kamalsai1.github.io/kamal-portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "https://kamalsai1.github.io/kamal-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/My_Resume.pdf": "https://kamalsai1.github.io/kamal-portfolio/static/media/My_Resume.a85670775f0b19b66767.pdf",
+    "static/media/home-main.svg": "https://kamalsai1.github.io/kamal-portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "https://kamalsai1.github.io/kamal-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "https://kamalsai1.github.io/kamal-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "https://kamalsai1.github.io/kamal-portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "https://kamalsai1.github.io/kamal-portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "https://kamalsai1.github.io/kamal-portfolio/index.html",
+    "main.263f349a.css.map": "https://kamalsai1.github.io/kamal-portfolio/static/css/main.263f349a.css.map",
+    "main.9b33f528.js.map": "https://kamalsai1.github.io/kamal-portfolio/static/js/main.9b33f528.js.map",
+    "415.4d6acbeb.chunk.js.map": "https://kamalsai1.github.io/kamal-portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "https://kamalsai1.github.io/kamal-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6824a152.css",
-    "static/js/main.258c9ad4.js"
+    "static/css/main.263f349a.css",
+    "static/js/main.9b33f528.js"
   ]
 }

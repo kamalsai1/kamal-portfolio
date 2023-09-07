@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://kamalsai1.github.io/kamal-portfolio/static/css/main.263f349a.css",
-    "main.js": "https://kamalsai1.github.io/kamal-portfolio/static/js/main.9b33f528.js",
+    "main.js": "https://kamalsai1.github.io/kamal-portfolio/static/js/main.aa907992.js",
     "static/js/415.4d6acbeb.chunk.js": "https://kamalsai1.github.io/kamal-portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "https://kamalsai1.github.io/kamal-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/My_Resume.pdf": "https://kamalsai1.github.io/kamal-portfolio/static/media/My_Resume.a85670775f0b19b66767.pdf",
@@ -12,12 +12,12 @@
     "static/media/pre.svg": "https://kamalsai1.github.io/kamal-portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "https://kamalsai1.github.io/kamal-portfolio/index.html",
     "main.263f349a.css.map": "https://kamalsai1.github.io/kamal-portfolio/static/css/main.263f349a.css.map",
-    "main.9b33f528.js.map": "https://kamalsai1.github.io/kamal-portfolio/static/js/main.9b33f528.js.map",
+    "main.aa907992.js.map": "https://kamalsai1.github.io/kamal-portfolio/static/js/main.aa907992.js.map",
     "415.4d6acbeb.chunk.js.map": "https://kamalsai1.github.io/kamal-portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "https://kamalsai1.github.io/kamal-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.263f349a.css",
-    "static/js/main.9b33f528.js"
+    "static/js/main.aa907992.js"
   ]
 }
